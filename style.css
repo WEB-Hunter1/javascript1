@@ -1,0 +1,24 @@
+.container {
+    margin: 10%;
+}
+.center {
+    text-align: center;
+}
+.order1 {
+    background: red;
+}
+.order2 {
+    background: red;
+}
+
+/*info-box*/
+
+.info-box {
+	margin: 0 auto;
+	width: 500px;
+	height: 300px;
+	border: 4px double black;
+}
+.info-box p {
+	margin: 10px;
+}
