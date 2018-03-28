@@ -4,9 +4,16 @@ body {
 }
 h1 {
 	text-align: center;
-	margin-top: 30%;
-	font-size: 3.5em;
+	margin-top: 20%;
+	font-size: 6em;
 }
-my-input {
+.input-block {
+	width: 100%;
 	text-align: center;
+}
+.input-block input {
+    width: 60%;
+}
+.input-block input:hover {
+	box-shadow: 0 0 5px rgba(0,0,0,0.3);
 }
