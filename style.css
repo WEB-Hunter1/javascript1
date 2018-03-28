@@ -1,24 +1,12 @@
-.container {
-    margin: 10%;
-}
-.center {
-    text-align: center;
-}
-.order1 {
-    background: red;
-}
-.order2 {
-    background: red;
-}
-
-/*info-box*/
-
-.info-box {
+body {
+	width: 900px;
 	margin: 0 auto;
-	width: 500px;
-	height: 300px;
-	border: 4px double black;
 }
-.info-box p {
-	margin: 10px;
+h1 {
+	text-align: center;
+	margin-top: 30%;
+	font-size: 3.5em;
+}
+my-input {
+	text-align: center;
 }
